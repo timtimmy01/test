@@ -1,6 +1,4 @@
-// for(let i=1; i<=1000; i++){
-//     console.log(i)
-// }
+
 
 // for(let p=100; p<=200; p+=5){
 //     console.log(p)
